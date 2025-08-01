@@ -7,7 +7,7 @@ I'm a Computer Science student at Macaulay Honors College at Hunter College (CUN
 ## 💼 Experience
 
 - **Amazon (Prime Video)** – *Software Development Engineer Intern*  
-  Worked on developer tooling infrastructure that incorporates customer feedback on a new flagship feature. Developed an ML model to classify and organize user queries, and created a summarization pipeline to collect user trends during sessions.             Integrated the analysis into a dashboard, enabling faster and more informed product management and developer decisions.
+  Worked on developer tooling infrastructure that incorporates customer feedback on a new flagship feature. Developed an ML model to classify and organize user queries, and created a summarization pipeline to collect user trends during sessions. Integrated the analysis into a dashboard, enabling faster and more informed product management and developer decisions.
 
 - **Art Beyond Sight** – *Software Engineering Intern*  
   Improved the Community Engagement Platform using Drupal and modernizing UI/UX design practices.
@@ -40,7 +40,7 @@ Dean’s List | GPA: 3.94
 
 ## 🔗 Links
 
-- [📎 LinkedIn](https://www.linkedin.com/in/marcin-zarkowski/)
+- [LinkedIn](https://www.linkedin.com/in/MarcinZarkowski/)
 
 ---
 
