@@ -1,10 +1,10 @@
-# 👋 Hi, 
+# Hi, 
 
 I'm a Computer Science student at Macaulay Honors College at Hunter College (CUNY).
 
 ---
 
-## 💼 Experience
+## Experience
 
 - **Amazon (Prime Video)** – *Software Development Engineer Intern*  
  Created a NLP pipeline to gather insights on user feedback and behavior for new flagship feature by developing and optimizing a clustering algorithm. Developed an ML model to classify user queries. Integrated analysis into a dashboard, enabling faster and more informed product management and developer decisions.
