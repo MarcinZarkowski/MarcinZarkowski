@@ -38,7 +38,7 @@ Dean’s List | GPA: 3.94
 
 ---
 
-## 🔗 Links
+## Links
 
 - [LinkedIn](https://www.linkedin.com/in/MarcinZarkowski/)
 
