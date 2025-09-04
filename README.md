@@ -1,4 +1,4 @@
-# Hi, 
+# Hi
 
 I'm a Computer Science student at Macaulay Honors College at Hunter College (CUNY).
 
